@@ -1,11 +1,3 @@
-# THIS IS A MARKDOWN FILE
----
-Role: MSc Student
-Name: Ioannis Lamprou
-Student ID: 2023039016
-Email: ilamprou1@tuc.gr
----
-
 # Pcap Monitor
 
 This project is a packet sniffer and analyzer that uses the pcap library to capture packets from a network interface or read packets from a pcap file. It provides detailed information about the Ethernet, IP, TCP, and UDP headers, as well as the payload of each packet. It also keeps track of TCP and UDP flows and identifies TCP retransmissions.
